@@ -4,3 +4,9 @@ C:\Users\javie\source\repos\Ejemplo1Instituto\dominio\obj\Debug\dominio.csproj.A
 C:\Users\javie\source\repos\Ejemplo1Instituto\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\javie\source\repos\Ejemplo1Instituto\dominio\obj\Debug\dominio.dll
 C:\Users\javie\source\repos\Ejemplo1Instituto\dominio\obj\Debug\dominio.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\bin\Debug\dominio.dll
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\bin\Debug\dominio.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.dll
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.pdb

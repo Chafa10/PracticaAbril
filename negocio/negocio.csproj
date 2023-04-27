@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatos.cs" />
+    <Compile Include="NegocioMaterias.cs" />
     <Compile Include="NegocioCarreras.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

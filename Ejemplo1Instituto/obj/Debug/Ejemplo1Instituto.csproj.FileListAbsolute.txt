@@ -15,3 +15,22 @@ C:\Users\javie\source\repos\Ejemplo1Instituto\Ejemplo1Instituto\obj\Debug\Ejempl
 C:\Users\javie\source\repos\Ejemplo1Instituto\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.pdb
 C:\Users\javie\source\repos\Ejemplo1Instituto\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.ElegirCarrera.resources
 C:\Users\javie\source\repos\Ejemplo1Instituto\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.AgregarCarrera.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\Ejemplo1Instituto.exe.config
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\Ejemplo1Instituto.exe
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\Ejemplo1Instituto.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\dominio.dll
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\negocio.dll
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\dominio.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\bin\Debug\negocio.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.AgregarCarrera.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.ElegirCarrera.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.Form1.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.csproj.CopyComplete
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.exe
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.pdb
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.AltaMateria.resources
+C:\Users\usuario\Desktop\Repo github\PracticaAbril\Ejemplo1Instituto\obj\Debug\Ejemplo1Instituto.AsignarMateriaAcurso.resources

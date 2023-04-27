@@ -52,6 +52,18 @@
     <Compile Include="AgregarCarrera.Designer.cs">
       <DependentUpon>AgregarCarrera.cs</DependentUpon>
     </Compile>
+    <Compile Include="AltaMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaMateria.Designer.cs">
+      <DependentUpon>AltaMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignarMateriaAcurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarMateriaAcurso.Designer.cs">
+      <DependentUpon>AsignarMateriaAcurso.cs</DependentUpon>
+    </Compile>
     <Compile Include="ElegirCarrera.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +80,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AgregarCarrera.resx">
       <DependentUpon>AgregarCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaMateria.resx">
+      <DependentUpon>AltaMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignarMateriaAcurso.resx">
+      <DependentUpon>AsignarMateriaAcurso.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ElegirCarrera.resx">
       <DependentUpon>ElegirCarrera.cs</DependentUpon>

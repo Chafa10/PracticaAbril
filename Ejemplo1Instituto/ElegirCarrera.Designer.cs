@@ -33,6 +33,7 @@ namespace Ejemplo1Instituto
             this.dgvCursos = new System.Windows.Forms.DataGridView();
             this.btnAgregarCarrera = new System.Windows.Forms.Button();
             this.btnAgregarMateria = new System.Windows.Forms.Button();
+            this.btnAsignarMateriaCurso = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCursos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -70,12 +71,24 @@ namespace Ejemplo1Instituto
             this.btnAgregarMateria.TabIndex = 3;
             this.btnAgregarMateria.Text = "Agregar Materia";
             this.btnAgregarMateria.UseVisualStyleBackColor = true;
+            this.btnAgregarMateria.Click += new System.EventHandler(this.btnAgregarMateria_Click);
+            // 
+            // btnAsignarMateriaCurso
+            // 
+            this.btnAsignarMateriaCurso.Location = new System.Drawing.Point(179, 516);
+            this.btnAsignarMateriaCurso.Name = "btnAsignarMateriaCurso";
+            this.btnAsignarMateriaCurso.Size = new System.Drawing.Size(156, 23);
+            this.btnAsignarMateriaCurso.TabIndex = 4;
+            this.btnAsignarMateriaCurso.Text = "Asignar Materia a un Curso";
+            this.btnAsignarMateriaCurso.UseVisualStyleBackColor = true;
+            this.btnAsignarMateriaCurso.Click += new System.EventHandler(this.btnAsignarMateriaCurso_Click);
             // 
             // ElegirCarrera
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(974, 583);
+            this.Controls.Add(this.btnAsignarMateriaCurso);
             this.Controls.Add(this.btnAgregarMateria);
             this.Controls.Add(this.btnAgregarCarrera);
             this.Controls.Add(this.dgvCursos);
@@ -95,5 +108,6 @@ namespace Ejemplo1Instituto
         private System.Windows.Forms.DataGridView dgvCursos;
         private System.Windows.Forms.Button btnAgregarCarrera;
         private System.Windows.Forms.Button btnAgregarMateria;
+        private System.Windows.Forms.Button btnAsignarMateriaCurso;
     }
 }

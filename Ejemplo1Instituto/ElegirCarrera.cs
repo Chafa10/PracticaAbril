@@ -21,6 +21,11 @@ namespace Ejemplo1Instituto
 
         private void ElegirCarrera_Load(object sender, EventArgs e)
         {
+            cargar();
+        }
+
+        private void cargar()
+        {
             NegocioCarreras negocio = new NegocioCarreras();
 
             cmbCarreras.DataSource = negocio.listaCarreras();
@@ -32,6 +37,21 @@ namespace Ejemplo1Instituto
         {
             AgregarCarrera agregarCarrera = new AgregarCarrera();
             agregarCarrera.ShowDialog();
+            cargar();
+        }
+
+        private void btnAsignarMateriaCurso_Click(object sender, EventArgs e)
+        {
+            AsignarMateriaAcurso asignarMateriaAcurso = new AsignarMateriaAcurso();
+            asignarMateriaAcurso.ShowDialog();
+            cargar();
+        }
+
+        private void btnAgregarMateria_Click(object sender, EventArgs e)
+        {
+            AltaMateria altaMateria = new AltaMateria();
+            altaMateria.ShowDialog();
+            cargar();
         }
     }
 }

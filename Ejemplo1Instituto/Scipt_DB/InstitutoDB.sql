@@ -1,4 +1,4 @@
-
+create database INSTITUTO93_DB
 create table Carreras(
 Expediente int identity,
 Nombre varchar(80) not null,
