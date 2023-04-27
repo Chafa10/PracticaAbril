@@ -1,0 +1,9 @@
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\bin\Debug\negocio.dll
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\bin\Debug\negocio.pdb
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\bin\Debug\dominio.dll
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\bin\Debug\dominio.pdb
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\obj\Debug\negocio.dll
+C:\Users\javie\source\repos\Ejemplo1Instituto\negocio\obj\Debug\negocio.pdb
