@@ -46,5 +46,18 @@ namespace Ejemplo1Instituto
             }
             
         }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
     }
 }
