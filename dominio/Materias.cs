@@ -11,7 +11,5 @@ namespace dominio
         public int IdMateria { get; set; }
         public string Nombre { get; set; }
         public int Horas { get; set; }
-
-
     }
 }

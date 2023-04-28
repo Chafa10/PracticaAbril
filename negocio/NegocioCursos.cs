@@ -10,20 +10,28 @@ namespace negocio
 {
     public class NegocioCursos
     {
-        public void agregarMateriaCurso(Cursos nuevoCurso, Materias asignoMateria, Carreras asignoCarrera)
+        public void agregarCurso(Cursos nuevoCurso)
         {
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("Insert into Cursos Values(@nombre, @expedienteCarrera, @idMateria)");
+                datos.setearConsulta("Insert into Cursos Values(@nombre, @expedienteCarrera, @caracteristica)");
                 datos.setearParametro("@nombre",nuevoCurso.Nombre);
-                datos.setearParametro("@expedienteMateria", asignoCarrera.Expediente);
-                datos.setearParametro("@idMateria", asignoMateria.IdMateria);
+                datos.setearParametro("@expedienteCarrera", nuevoCurso.ExpedienteCarrera);
+                datos.setearParametro("@caracteristica", nuevoCurso.Caracteristica);
+
+                datos.ejecutarAccion();
+               
             }
             catch (Exception ex)
             {
 
                 throw ex;
+            }
+
+            finally
+            {
+                datos.cerrarConexion();
             }
         }
     }

@@ -10,3 +10,9 @@ C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csp
 C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.dll
 C:\Users\usuario\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.pdb
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\bin\Debug\dominio.dll
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\bin\Debug\dominio.pdb
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.dll
+C:\Users\javie\OneDrive\Desktop\Repo github\PracticaAbril\dominio\obj\Debug\dominio.pdb

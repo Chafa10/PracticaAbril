@@ -68,6 +68,7 @@ namespace negocio
 
         public void cerrarConexion()
         {
+           
             conexion.Close();
         }
 

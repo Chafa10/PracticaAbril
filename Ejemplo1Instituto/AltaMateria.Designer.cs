@@ -40,9 +40,10 @@ namespace Ejemplo1Instituto
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(122, 318);
+            this.btnAceptar.Location = new System.Drawing.Point(130, 428);
+            this.btnAceptar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(75, 23);
+            this.btnAceptar.Size = new System.Drawing.Size(112, 35);
             this.btnAceptar.TabIndex = 0;
             this.btnAceptar.Text = "Agregar";
             this.btnAceptar.UseVisualStyleBackColor = true;
@@ -50,9 +51,10 @@ namespace Ejemplo1Instituto
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(228, 318);
+            this.btnCancelar.Location = new System.Drawing.Point(289, 428);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(75, 23);
+            this.btnCancelar.Size = new System.Drawing.Size(112, 35);
             this.btnCancelar.TabIndex = 1;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
@@ -60,23 +62,26 @@ namespace Ejemplo1Instituto
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(219, 146);
+            this.txtNombre.Location = new System.Drawing.Point(331, 183);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 20);
+            this.txtNombre.Size = new System.Drawing.Size(148, 26);
             this.txtNombre.TabIndex = 2;
             // 
             // txtHoras
             // 
-            this.txtHoras.Location = new System.Drawing.Point(219, 215);
+            this.txtHoras.Location = new System.Drawing.Point(331, 289);
+            this.txtHoras.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtHoras.Name = "txtHoras";
-            this.txtHoras.Size = new System.Drawing.Size(100, 20);
+            this.txtHoras.Size = new System.Drawing.Size(148, 26);
             this.txtHoras.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
-            this.label1.Location = new System.Drawing.Point(12, 144);
+            this.label1.Location = new System.Drawing.Point(21, 180);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(175, 20);
             this.label1.TabIndex = 4;
@@ -86,7 +91,8 @@ namespace Ejemplo1Instituto
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
-            this.label2.Location = new System.Drawing.Point(22, 213);
+            this.label2.Location = new System.Drawing.Point(36, 286);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(162, 20);
             this.label2.TabIndex = 5;
@@ -96,7 +102,8 @@ namespace Ejemplo1Instituto
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F);
-            this.label3.Location = new System.Drawing.Point(134, 48);
+            this.label3.Location = new System.Drawing.Point(201, 74);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(148, 29);
             this.label3.TabIndex = 6;
@@ -104,9 +111,9 @@ namespace Ejemplo1Instituto
             // 
             // AltaMateria
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(417, 392);
+            this.ClientSize = new System.Drawing.Size(531, 554);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -114,6 +121,8 @@ namespace Ejemplo1Instituto
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AltaMateria";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AltaMateria";

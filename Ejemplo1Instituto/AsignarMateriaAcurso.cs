@@ -35,9 +35,7 @@ namespace Ejemplo1Instituto
                 cmbCarrera.ValueMember = "Expediente";
                 cmbCarrera.DisplayMember = "Nombre";
 
-                cmbMateria.DataSource = negocioMaterias.listaMaterias();
-                cmbMateria.ValueMember = "IdMateria";
-                cmbMateria.DisplayMember = "Nombre";
+              
             }
             catch (Exception ex)
             {
@@ -51,7 +49,17 @@ namespace Ejemplo1Instituto
         {
             try
             {
+                NegocioCursos negocio = new NegocioCursos();
+                Cursos nuevoCurso = new Cursos();
 
+                nuevoCurso.ExpedienteCarrera = (int)cmbCarrera.SelectedValue;
+                nuevoCurso.Nombre = txtNombre.Text;
+                nuevoCurso.Caracteristica = txtCaracteristica.Text;
+
+                negocio.agregarCurso(nuevoCurso);
+
+                MessageBox.Show("Agregaste un curso exitosamente");               
+                
             }
             catch (Exception ex)
             {

@@ -11,6 +11,6 @@ namespace dominio
         public int IdCurso { get; set; }
         public string Nombre { get; set; }
         public int ExpedienteCarrera { get; set; }
-        public int IdMateria { get; set; }
+        public string Caracteristica { get; set; }
     }
 }
